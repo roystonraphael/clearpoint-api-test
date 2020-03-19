@@ -1,7 +1,7 @@
 #  API Tests built for Clearpoint 
 ------
 
-## 🚀 Quick start Guide
+## Quick start Guide
 
 1.  **Running Tests**
 
@@ -21,7 +21,7 @@
     
     There is also a default `reports` folder within the `build` directory which creates a very basic `index.html` report of the test run
 
-## 🧐 What's inside?
+## What's inside?
 ------
 
 A quick look at the top-level files and directories in the project.
@@ -40,7 +40,7 @@ A quick look at the top-level files and directories in the project.
 1.  **`/src`**: This directory will contain all of the code related to what you will see on the front-end of your site 
 (what you see in the browser) such as your site header or a page template. `src` is a convention for “source code”.
 
-## 🧪 Detailed Explanation of what the code is doing
+## Detailed Explanation of what the code is doing
 ------
 
 A standard Java project, which fetches dependencies using Gradle. I have added a `features` directory within the 
@@ -57,7 +57,7 @@ inheritance as the solution didn't call for it.
 I have basically used the RestAssured library to test the APIs. I have used the Cucumber-java library to help with BDD. 
 JUnit has been used to run the tests.
 
-## 🎓 Challenges Faced
+## Challenges Faced
 ------
 
 1.  **Test Data Setup**
