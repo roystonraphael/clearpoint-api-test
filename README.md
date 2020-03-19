@@ -22,7 +22,6 @@
     There is also a default `reports` folder within the `build` directory which creates a very basic `index.html` report of the test run
 
 ## What's inside?
-------
 
 A quick look at the top-level files and directories in the project.
     
@@ -41,7 +40,6 @@ A quick look at the top-level files and directories in the project.
 (what you see in the browser) such as your site header or a page template. `src` is a convention for “source code”.
 
 ## Detailed Explanation of what the code is doing
-------
 
 A standard Java project, which fetches dependencies using Gradle. I have added a `features` directory within the 
 `resources` folder to include our BDD scenarios
@@ -58,7 +56,6 @@ I have basically used the RestAssured library to test the APIs. I have used the 
 JUnit has been used to run the tests.
 
 ## Challenges Faced
-------
 
 1.  **Test Data Setup**
 
